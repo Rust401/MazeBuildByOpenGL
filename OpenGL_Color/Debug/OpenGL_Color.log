@@ -1,0 +1,34 @@
+﻿  main.cpp
+c:\users\administrator\source\repos\opengl_color\opengl_color\shader_s.h(53): warning C4101: 'infoLog': unreferenced local variable
+c:\users\administrator\source\repos\opengl_color\opengl_color\shader_s.h(52): warning C4101: 'success': unreferenced local variable
+c:\users\administrator\source\repos\opengl_color\opengl_color\camera.h(109): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1055): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1094): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1095): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1102): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1103): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1110): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1111): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1118): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1119): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1126): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1127): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1134): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1135): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1142): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1143): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1150): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1151): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1159): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1160): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1195): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1201): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1337): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1338): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1342): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1343): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1345): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1346): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\opengl_color\opengl_color\main.cpp(1355): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL_Color.vcxproj -> C:\Users\Administrator\source\repos\OpenGL_Color\Debug\OpenGL_Color.exe
